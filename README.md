@@ -25,14 +25,16 @@ The main goal is to improve data quality, summarize important information, ident
 - **Microsoft Excel**
 - Excel Tables
 - Pivot Tables
-<img width="1366" height="768" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/54cf7d72-a27a-468d-b5e5-811cac538444" />
-
-
 - Pivot Charts
-<img width="1366" height="768" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/d9351bfc-46e5-47a4-8034-cc9bb099e0df" />
+<img width="1366" height="768" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/254fab6f-a6fb-4acc-bbc0-b5846b3b6b2f" />
+
 
 
 - Conditional Formatting
+<img width="1366" height="768" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/575fe0d9-fde3-4eed-880e-921adf469313" />
+
+
+
 - Data Cleaning Tools
 - Interactive Dashboard Elements
 
